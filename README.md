@@ -16,7 +16,7 @@ Libreta de práctica para los estudiantes del curso CIB-209 Tópicos Especiales 
 
 ## Qué hace la libreta
 
-- Parsea el access.log en formato NGINX combined a una tabla ordenada por tiempo.
+- Parsea el access.log en formato NGINX a una tabla ordenada por tiempo.
 - Grafica las solicitudes por minuto para ver la forma global del tráfico.
 - Detecta los picos de forma automática con un detector tipo PersistAD de la librería ADTK, con un respaldo equivalente por si el entorno trae una versión de pandas incompatible. Ambos usan los mismos parámetros window y c.
 - Separa la señal por código de estado, por dirección IP y por volumen de bytes para caracterizar cada pico.
