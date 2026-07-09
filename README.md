@@ -6,7 +6,7 @@ Libreta de práctica para los estudiantes del curso CIB-209 Tópicos Especiales 
 
 1. Abrir el repositorio en Binder con el botón de abajo (reemplazar USUARIO/REPO por la ruta real del repositorio).
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USUARIO/REPO/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wrodriguez-cenfotec/analisis_access_log/HEAD?urlpath=%2Fdoc%2Ftree%2Fanalisis_access_log.ipynb)
 
 2. La primera carga tarda unos minutos mientras se construye el entorno. Tener paciencia.
 3. Adjuntar el archivo access.log en el mismo directorio de la libreta. El código asume ese nombre exacto.
